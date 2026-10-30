@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sansai",
  "yomi": "さんさいちょうかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "長歌集",
+  "era": "江戸後期",
+  "author": "鹿持雅澄（1791〜1858）",
+  "desc": "土佐の国学者で万葉学者の鹿持雅澄の長歌集。吉野の桜を詠む長歌に始まり、万葉仮名で書いた長歌も収める。"
+ },
  "editions": [
   {
    "pid": "993387",
